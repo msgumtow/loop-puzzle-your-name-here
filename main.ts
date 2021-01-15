@@ -5,7 +5,7 @@
  * 
  * While the sound level is greater than/equal to 100, do show icon (big diamond) and show icon (little diamond).
  * 
- * Lastly, clear screen.
+ * Lastly, AFTER the loop block, clear screen. Then test!
  * 
  * ***Use the search! You will need:
  * 
